@@ -1,0 +1,33 @@
+# Carpeta de dependencias
+node_modules/
+
+# Carpeta de construcción generada por Next.js
+.next/
+
+# Archivos de registro
+*.log
+
+# Archivos de configuración específicos del entorno
+.env.local
+.env.development
+.env.production
+
+# Carpeta de salida de compilación personalizada
+build/
+
+# Carpeta de archivos estáticos generados por next export
+out/
+
+# Carpeta de caché
+.cache/
+
+# Carpeta de informes de cobertura
+coverage/
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración específicos del proyecto
+.idea/
+.vscode/

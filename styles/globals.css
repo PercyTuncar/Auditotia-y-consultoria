@@ -1,0 +1,89 @@
+.testimonial-slider-four .slick-slide {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.nice-select {
+  width: 100%;
+}
+.recent-product-slider .slick-slide,
+.testimonial-slider-two .slick-slide {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+/* styles.css */
+
+/* Estilos generales para la sección */
+.features-section {
+  background-color: #f9f9f9;
+  padding: 60px 0;
+}
+
+/* Estilos para los elementos de la sección */
+.features-item {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.features-item .icon {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* Estilos para títulos y texto */
+.features-item h4 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.features-item p {
+  font-size: 16px;
+  color: #777;
+}
+
+/* Estilos para la sección de imagen */
+.features-one_img-box {
+  position: relative;
+}
+
+.features-img-one,
+.features-img-two {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.quote-box-two {
+  background-color: #4caf50;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  max-width: 300px;
+  height: fit-content;
+}
+
+.big-logo img {
+  width: 100%;
+  max-width: 150px;
+}
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 767px) {
+  .features-one_img-box {
+    text-align: center;
+  }
+
+  .quote-box-two {
+    position: static;
+    margin-bottom: 20px;
+  }
+}

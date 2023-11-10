@@ -126,7 +126,7 @@ Urb. San agustin-Comas-Lima</p>
                   </div>
                   <div className="text">
                     <p>
-                      <a href="mailto:rrojasg20@gmail.com">rrojasg20@gmail.com</a>
+                      <a href="mailto:rrojas@rgauditoriayconsultoria.com.pe">rrojas@rgauditoriayconsultoria.com.pe</a>
                     </p>
                   </div>
                 </div>

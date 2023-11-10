@@ -920,7 +920,7 @@ footer,
 @media only screen and (min-width: 1200px) and (max-width: 1650px){
     .topbar-one {
         padding-left: 0px;
-        padding-right: 240px;
+        padding-right: 40px;
     }
     .navigation-one .nav-inner-menu {
         margin-right: 30px;

@@ -60,7 +60,7 @@ const DefaultHeader = ({ singleMenus }) => (
               <span className="text">
                 <i className="far fa-envelope" /> Correo :{" "}
                 <span>
-                  <a href="mailto:rrojasg20@gmail.com">rrojasg20@gmail.com</a>
+                  <a href="mailto:rrojas@rgauditoriayconsultoria.com.pe">rrojas@rgauditoriayconsultoria.com.pe</a>
                 </span>
               </span>
               <span className="text">
@@ -134,11 +134,19 @@ const DefaultHeader = ({ singleMenus }) => (
                   <a href="tel:+51992165668">992 165 668</a>
                 </span>
               </div>
-              <div className="linkedin-button" style={{ marginRight: '20px' }}>
-  <a href="https://www.linkedin.com/in/ruthrojasg/" target="_blank" rel="noopener noreferrer">
+              <div className="linkedin-button" style={{ marginRight: '15px' }}>
+  <a href="https://www.linkedin.com/company/r-g-auditor%C3%ADa-y-consultor%C3%ADa-sac/" target="_blank" rel="noopener noreferrer">
     <i className="fab fa-linkedin" style={{ fontSize: '30px' }} />  
   </a>
 </div>
+
+
+<div className="facebook-button" style={{ marginRight: '15px' }}>
+  <a href="https://www.facebook.com/profile.php?id=61553180945944" target="_blank" rel="noopener noreferrer">
+    <i className="fab fa-facebook" style={{ fontSize: '30px' }} />  
+  </a>
+</div>
+
 <div className="phone-button" style={{ marginRight: '20px' }}>
   <a href="tel:+519080474">
      📞 (01)9080474  
@@ -175,7 +183,7 @@ const Header2 = ({ singleMenus }) => (
               <span className="text">
                 <i className="far fa-envelope" /> Correo :{" "}
                 <span>
-                  <a href="mailto:rrojasg20@gmail.com">rrojasg20@gmail.com</a>
+                  <a href="mailto:rrojas@rgauditoriayconsultoria.com.pe">rrojas@rgauditoriayconsultoria.com.pe</a>
                 </span>
               </span>
               <span className="text">

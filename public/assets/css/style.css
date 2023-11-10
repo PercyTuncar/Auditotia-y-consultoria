@@ -826,11 +826,11 @@ button {
 
 .topbar-one {
   padding: 15px 0;
-  padding-left: 270px;
+  padding-left: 70px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1650px) {
   .topbar-one {
-    padding-left: 240px;
+    padding-left: 40px;
   }
 }
 @media (max-width: 1199px) {
@@ -1367,6 +1367,8 @@ button {
 
 .default-logo img{
   width: 150px;
+  background: #fff;
+  padding: 5px;
 
 }
 .default-sticky-logo img{

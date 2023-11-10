@@ -47,7 +47,7 @@ const OnePageIndex = () => {
                 Consultoría 
                 </span>
                 <h1 className="wow fadeInUp" data-wow-delay=".7s">
-            Somos    Expertos en Consultoría y Auditoría Empresarial
+                Somos Expertos en Auditoría y Consultoría Empresarial
                 </h1>
                 <div className="hero-button wow fadeInUp" data-wow-delay=".9s">
                 <Link legacyBehavior href="#contacto">
@@ -157,7 +157,7 @@ const OnePageIndex = () => {
               <div className="features-one_content-box pl-lg-70 mb-10">
                 <div className="section-title section-title-left mb-35 wow fadeInDown">
                   <span className="sub-title">¿Qué Hacemos?</span>
-                  <h2>Transformamos Tu Negocio con Expertos en Consultoría y Auditoría</h2>
+                  <h2>Transformamos Tu Negocio con Expertos en Auditoría y Consultoría</h2>
                 </div>
                
 
@@ -482,8 +482,8 @@ Urb. San agustin-Comas-Lima</p>
                   <div className="info">
                     <h3 className="title">Correo</h3>
                     <p>
-                      <a href="mailto:rrojasg20@gmail.com">
-                      rrojasg20@gmail.com
+                      <a href="mailto:rrojas@rgauditoriayconsultoria.com.pe">
+                      rrojas@rgauditoriayconsultoria.com.pe
                       </a>
                     </p>
                   </div>

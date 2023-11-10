@@ -94,10 +94,10 @@ const OnePageIndex = () => {
                 <div className="section-title section-title-left">
                   <span className="sub-title">Acerca de la compañía
 </span>
-                  <h2>Tu Socio Estratégico en Consultoría y Auditoría Empresarial </h2>
+                  <h2>Tu Socio Estratégico en Auditoria y Consultoría Empresarial  </h2>
                 </div>
                 <p>
-                Somos tus aliados en consultoría y auditoría. Ofrecemos servicios expertos en contabilidad, finanzas, impuestos, recursos humanos y asesoría para la constitución de empresas. Tu éxito es nuestro compromiso.
+                Somos tus aliados en Auditoria y Consultoría Empresarial. Ofrecemos servicios expertos en contabilidad, finanzas, impuestos, recursos humanos y asesoría para la constitución de empresas. Tu éxito es nuestro compromiso.
 
 
 
@@ -314,7 +314,7 @@ const OnePageIndex = () => {
                     
                     <div className="author-title">
                       
-                      <p className="position">Sólida Trayectoria en Consultoría y Auditoría Empresarial</p>
+                      <p className="position">Sólida Trayectoria en Auditoria y Consultoría Empresarial </p>
                     </div>
                   </div>
                 </div>
@@ -333,7 +333,7 @@ const OnePageIndex = () => {
                   <h2>Comprometidos con la Transformación Empresarial</h2>
                 </div>
                 <p className="wow fadeInUp">
-                Estamos dedicados a impulsar cambios significativos en el mundo empresarial. Nuestra misión es brindar servicios de consultoría y auditoría de calidad que permitan a las empresas alcanzar su máximo potencial
+                Estamos dedicados a impulsar cambios significativos en el mundo empresarial. Nuestra misión es brindar servicios de Auditoria y Consultoría Empresarial de calidad que permitan a las empresas alcanzar su máximo potencial
                 </p>
                 <div className="single-counter-item d-flex align-items-center mb-40 wow fadeInDown">
                   <div className="icon">
@@ -345,7 +345,7 @@ const OnePageIndex = () => {
                     <h2 className="number">
                     Misión
                     </h2>
-                    <h5>Potenciar el éxito empresarial a través de consultoría y auditoría experta.</h5>
+                    <h5>Potenciar el éxito empresarial a través de Auditoria y Consultoría Empresarial experta.</h5>
                   </div>
                 </div>
                 <div className="single-counter-item d-flex align-items-center mb-40 wow fadeInDown">
@@ -415,7 +415,7 @@ const OnePageIndex = () => {
     <h2>¿Tienes Preguntas? Tenemos Respuestas.</h2>
   </div>
   <blockquote>
-    Aquí encontrarás respuestas a las preguntas más comunes sobre nuestros servicios de Consultoría y Auditoría Empresarial.
+    Aquí encontrarás respuestas a las preguntas más comunes sobre nuestros servicios de Auditoria y Consultoría Empresarial .
   </blockquote>
  
   <div className="faq-button">

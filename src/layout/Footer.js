@@ -48,7 +48,7 @@ const DefaultFooter = () => (
             <div className="footer-widget about-company-widget mb-40 wow fadeInUp">
               <h4 className="widget-title">Acerca de la Empresa</h4>
               <div className="footer-content">
-              <p>Somos expertos en consultoría y auditoría empresarial, comprometidos con la excelencia y la transparencia en los negocios. Nuestra misión es impulsar tu éxito financiero.</p>
+              <p>Somos expertos en Auditoria y Consultoría Empresarial , comprometidos con la excelencia y la transparencia en los negocios. Nuestra misión es impulsar tu éxito financiero.</p>
                
               </div>
             </div>

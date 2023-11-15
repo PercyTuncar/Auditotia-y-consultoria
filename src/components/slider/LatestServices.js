@@ -32,22 +32,22 @@ const LatestServices = () => {
     {
       title: "Outsourcing Contable",
       image: "assets/images/service/img-2.jpg",
-      description: "Externalización de servicios contables para tu empresa.",
+      description: "Tercerización de los servicios contables  y brindar información confiable, oportuna y relevante a la gerencia de la empresa.",
     },
     {
       title: "Auditoría Financiera",
       image: "assets/images/service/img-2.jpg",
-      description: "Auditorías certificadas para confianza financiera.",
+      description: "Garantizar  la fiabilidad de la información financiera de una empresa para brindar confianza a los usuarios de la información.",
     },
     {
       title: "Auditoría Interna",
       image: "assets/images/gallery/img-3.jpg",
-      description: "Evaluaciones exhaustivas para mejorar la eficiencia interna.",
+      description: "Controlar a la empresa, identificando puntos de mejora y riesgos a las operaciones de la organización.      ",
     },
     {
       title: "Control Interno",
       image: "assets/images/gallery/img-4.jpg",
-      description: "Gestión de control interno para asegurar eficiencia y cumplimiento.",
+      description: "Evaluación el Control Interno de tu empresa que  salvaguarde sus recursos, verificar la exactitud y veracidad de la información financiera y administrativa.",
     },
   ];
 

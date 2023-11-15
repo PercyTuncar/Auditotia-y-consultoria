@@ -230,7 +230,8 @@ const OnePageIndex = () => {
       </div>
       <div className="text">
         <h4 className="title">Outsourcing Contable</h4>
-        <p>Externalización de servicios contables para tu empresa.</p>
+        <p>Tercerización de los servicios contables  y brindar información confiable, oportuna y relevante a la gerencia de la empresa.
+</p>
       </div>
     </div>
   </div>
@@ -254,7 +255,7 @@ const OnePageIndex = () => {
       </div>
       <div className="text">
         <h4 className="title">Auditoría Interna</h4>
-        <p>Evaluaciones exhaustivas para mejorar la eficiencia interna.</p>
+        <p>Controlar a la empresa, identificando puntos de mejora y riesgos a las operaciones de la organización.</p>
       </div>
     </div>
   </div>
@@ -266,7 +267,7 @@ const OnePageIndex = () => {
       </div>
       <div className="text">
         <h4 className="title">Control Interno</h4>
-        <p>Gestión de control interno para asegurar eficiencia y cumplimiento.</p>
+        <p>Evaluación el Control Interno de tu empresa que  salvaguarde sus recursos, verificar la exactitud y veracidad de la información financiera y administrativa.</p>
       </div>
     </div>
   </div>

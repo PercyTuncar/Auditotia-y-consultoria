@@ -243,7 +243,7 @@ const OnePageIndex = () => {
       </div>
       <div className="text">
         <h4 className="title">Auditoría Financiera</h4>
-        <p>Auditorías certificadas para confianza financiera.</p>
+        <p>Garantizar  la fiabilidad de la información financiera de una empresa para brindar confianza a los usuarios de la información.</p>
       </div>
     </div>
   </div>
@@ -267,7 +267,7 @@ const OnePageIndex = () => {
       </div>
       <div className="text">
         <h4 className="title">Control Interno</h4>
-        <p>Evaluación el Control Interno de tu empresa que  salvaguarde sus recursos, verificar la exactitud y veracidad de la información financiera y administrativa.</p>
+        <p>Evaluación del Control Interno de tu empresa que  salvaguarde sus recursos, verificar la exactitud y veracidad de la información financiera y administrativa.</p>
       </div>
     </div>
   </div>

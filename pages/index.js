@@ -473,7 +473,7 @@ const OnePageIndex = () => {
                   <div className="info">
                     <h3 className="title">Ubicación</h3>
                     <p> Av. Micaela Bastidas No. 400
-Urb. San agustin-Comas-Lima</p>
+Urb. San Agustin-Comas-Lima</p>
                   </div>
                 </div>
                 <div className="single-info-item animate-hover-icon d-flex mb-20 wow fadeInUp">

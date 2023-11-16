@@ -102,7 +102,7 @@ const DefaultFooter = () => (
                   </div>
                   <div className="text">
                     <p> Av. Micaela Bastidas No. 400
-Urb. San agustin-Comas-Lima</p>
+Urb. San Agustin-Comas-Lima</p>
                   </div>
                 </div>
                  

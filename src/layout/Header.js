@@ -52,7 +52,7 @@ export default Header;
 const DefaultHeader = ({ singleMenus }) => (
   <header className="header-area transparent-header">
     {/*=== Header Top-bar ===*/}
-    <div className="topbar-one bg-color-one">
+    <div className="topbar-one bg-color-one" style={{ zoom: 0.89 }}>
       <div className="container-fluid">
         <div className="row justify-content-center">
           <div className="col-lg-9 col-md-12">
@@ -60,16 +60,21 @@ const DefaultHeader = ({ singleMenus }) => (
               <span className="text">
                 <i className="far fa-envelope" /> Correo :{" "}
                 <span>
-                  <a href="mailto:rrojas@rgauditoriayconsultoria.com.pe">rrojas@rgauditoriayconsultoria.com.pe</a>
+                  <a href="mailto:rrojas@rgauditoriayconsultoria.com.pe">
+                    rrojas@rgauditoriayconsultoria.com.pe
+                  </a>
                 </span>
               </span>
               <span className="text">
-                <i className="far fa-map-marker-alt" />Ubicación :
-                <span> Av. Micaela Bastidas No. 400 Comas, Lima.</span>
+                <i className="far fa-map-marker-alt" />
+                Ubicación :
+                <span>
+                  {" "}
+                  Av. Micaela Bastidas No. 400 Urb. San Agustin-Comas-Lima
+                </span>
               </span>
             </div>
           </div>
-      
         </div>
       </div>
     </div>
@@ -134,30 +139,41 @@ const DefaultHeader = ({ singleMenus }) => (
                   <a href="tel:+51992165668">992 165 668</a>
                 </span>
               </div>
-              <div className="linkedin-button" style={{ marginRight: '15px' }}>
-  <a href="https://www.linkedin.com/company/r-g-auditor%C3%ADa-y-consultor%C3%ADa-sac/" target="_blank" rel="noopener noreferrer">
-    <i className="fab fa-linkedin" style={{ fontSize: '30px' }} />  
-  </a>
-</div>
+              <div className="linkedin-button" style={{ marginRight: "15px" }}>
+                <a
+                  href="https://www.linkedin.com/company/r-g-auditor%C3%ADa-y-consultor%C3%ADa-sac/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fab fa-linkedin" style={{ fontSize: "30px" }} />
+                </a>
+              </div>
 
+              <div className="facebook-button" style={{ marginRight: "15px" }}>
+                <a
+                  href="https://www.facebook.com/profile.php?id=61553180945944"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fab fa-facebook" style={{ fontSize: "30px" }} />
+                </a>
+              </div>
 
-<div className="facebook-button" style={{ marginRight: '15px' }}>
-  <a href="https://www.facebook.com/profile.php?id=61553180945944" target="_blank" rel="noopener noreferrer">
-    <i className="fab fa-facebook" style={{ fontSize: '30px' }} />  
-  </a>
-</div>
-
-<div className="phone-button" style={{ marginRight: '20px' }}>
-  <a href="tel:+519080474">
-     📞 (01)9080474  
-  </a>
-</div>
+              <div className="phone-button" style={{ marginRight: "20px" }}>
+                <a href="tel:+519080474">📞 (01)9080474</a>
+              </div>
 
               <div className="menu-button">
-  <a href="https://wa.me/51992165668" target="_blank" rel="noopener noreferrer">
-    <button className="main-btn btn-wtsp">Contactar por WhatsApp</button>
-  </a>
-</div>
+                <a
+                  href="https://wa.me/51992165668"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="main-btn btn-wtsp">
+                    Contactar por WhatsApp
+                  </button>
+                </a>
+              </div>
 
               <div className="navbar-toggler">
                 <span />
@@ -183,12 +199,18 @@ const Header2 = ({ singleMenus }) => (
               <span className="text">
                 <i className="far fa-envelope" /> Correo :{" "}
                 <span>
-                  <a href="mailto:rrojas@rgauditoriayconsultoria.com.pe">rrojas@rgauditoriayconsultoria.com.pe</a>
+                  <a href="mailto:rrojas@rgauditoriayconsultoria.com.pe">
+                    rrojas@rgauditoriayconsultoria.com.pe
+                  </a>
                 </span>
               </span>
               <span className="text">
-                <i className="far fa-map-marker-alt" />Ubicación :
-                <span> Av. Micaela Bastidas No. 400 Comas, Lima.</span>
+                <i className="far fa-map-marker-alt" />
+                Ubicación :
+                <span>
+                  {" "}
+                  Av. Micaela Bastidas No. 400 Urb. San Agustin-Comas-Lima
+                </span>
               </span>
             </div>
           </div>
@@ -477,7 +499,6 @@ const Menus = () => (
           <a href="#" className="active">
             Inicio
           </a>
-          
         </li>
         <li className="menu-item">
           <Link legacyBehavior href="about">

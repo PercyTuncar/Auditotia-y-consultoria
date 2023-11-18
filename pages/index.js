@@ -26,7 +26,7 @@ const OnePageIndex = () => {
       <section
         id="inicio"
         className="banner-one bg_cover p-r z-1"
-        style={{ backgroundImage: "url(assets/images/hero/hero-bg-1.jpg)" }}
+        style={{ backgroundImage: "url(assets/images/hero/hero-bg-1.jpg)", zoom: 0.8 }}
       >
         <div className="shape shape-one">
           <span>
